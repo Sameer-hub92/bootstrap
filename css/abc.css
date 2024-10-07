@@ -1,0 +1,20 @@
+@media (min-width:576px)
+{
+    .myclass
+    {
+        margin-left: 1%;
+    }
+}
+
+@media (max-width:575px)
+{
+    .myclass{
+        margin-bottom: 1%;
+    }
+}
+@media (max-width:575px)
+{
+    .myclass2{
+        margin-bottom: 1%;
+    }
+}
